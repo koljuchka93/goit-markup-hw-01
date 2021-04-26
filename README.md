@@ -1,2 +1,2 @@
 # goit-markup-hw-01
-HW #1 Kateryna Krylova
+HW #1 by Kateryna Krylova
